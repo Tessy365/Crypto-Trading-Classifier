@@ -1,0 +1,1 @@
+Complete Buy/Sell/Hold crypto signal classifier built with real data from the Binance API. Includes data fetching, feature engineering with technical indicators, supervised labeling, XGBoost training, model evaluation, backtesting, and deployment-ready prediction scripts.
